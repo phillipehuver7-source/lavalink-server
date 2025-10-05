@@ -1,0 +1,10 @@
+# Lavalink JAR (downloaded by Dockerfile)
+Lavalink.jar
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
